@@ -9,7 +9,7 @@
 ```javascript
 const Othello = {
     code: ["Javascript", "C#", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "UI / UX Design"],
+    askMeAbout: ["web dev", "tech", "app dev", "UI / UX Design", "Lead gen"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
