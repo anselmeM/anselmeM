@@ -17,7 +17,7 @@ const Othello = {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
+            js: ["node", "express"],
             
         },
         databases: ["mongo", "MySql", "sqlite"],
