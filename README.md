@@ -26,7 +26,7 @@ const Othello = {
     architecture: [ "Progressive web applications", "Single page applications"],
     currentProject: " My primary focus currently lies in enhancing my skills as a Full Stack Developer. In parallel, 
     I am immersing myself in the study of sales and marketing techniques to increase lead generation for Kooleythemes. 
-    Ultimately, my long-term vision is to develop a Content Planning and Publishing platform utilizing the MERN Stack. 
+    Ultimately, my long-term vision is to develop a time-tracking tool for measuring productivity utilizing the MERN Stack. 
     Throughout this endeavor, I am committed to documenting and sharing my learning journey.",
     Qoute of the Month : "Once you know what failure feels like, determination chases success."
 };
