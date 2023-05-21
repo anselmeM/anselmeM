@@ -24,10 +24,10 @@ const Othello = {
         misc: []
     },
     architecture: [ "Progressive web applications", "Single page applications"],
-    currentProject: "I am currently leveling up my skills in Fullstack Deveopment. 
-    Also learning skills in sales and marketing in bring in more Leads for Kooleythemes. 
-    The long term goals is to create movie streaming app using MERN Stack, 
-    during that time i'll be uploading what i learn along the way.",
+    currentProject: " My primary focus currently lies in enhancing my skills as a Full Stack Developer. In parallel, 
+    I am immersing myself in the study of sales and marketing techniques to increase lead generation for Kooleythemes. 
+    Ultimately, my long-term vision is to develop a Content Planning and Publishing platform utilizing the MERN Stack. 
+    Throughout this endeavor, I am committed to documenting and sharing my learning journey.",
     Qoute of the Month : "Once you know what failure feels like, determination chases success."
 };
 ```
