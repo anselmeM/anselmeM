@@ -8,7 +8,7 @@
 
 ```javascript
 const Othello = {
-    code: ["Javascript", "C#", "php"],
+    code: ["Javascript",],
     askMeAbout: ["web dev", "tech", "app dev", "UI / UX Design", "Lead gen"],
     technologies: {
         mobileApp: ["React Native"],
@@ -17,17 +17,14 @@ const Othello = {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["node", "express".],
             
         },
         databases: ["mongo", "MySql", "sqlite"],
         misc: []
     },
     architecture: [ "Progressive web applications", "Single page applications"],
-    currentProject: " My primary focus currently lies in enhancing my skills as a Full Stack Developer. In parallel, 
-    I am immersing myself in the study of sales and marketing techniques to increase lead generation for Kooleythemes. 
-    Ultimately, my long-term vision is to develop a time-tracking tool for measuring productivity utilizing the MERN Stack. 
-    Throughout this endeavor, I am committed to documenting and sharing my learning journey.",
+    currentProject: "My primary focus currently lies in enhancing my skills as a Full Stack Developer. In parallel, I am immersing myself in the study of sales and marketing techniques to increase lead generation for Kooleythemes. Ultimately, my long-term vision is to develop a time-tracking tool for measuring productivity utilizing the MERN Stack. Throughout this endeavor, I am committed to documenting and sharing my learning journey.",
     Qoute of the Month : "Once you know what failure feels like, determination chases success."
 };
 ```
