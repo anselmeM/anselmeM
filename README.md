@@ -20,7 +20,7 @@ const Othello = {
             js: ["node", "express".],
             
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongo", "MySql", "sqlite" , " Firebase"],
         misc: []
     },
     architecture: [ "Progressive web applications", "Single page applications"],
