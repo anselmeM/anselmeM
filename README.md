@@ -1,6 +1,6 @@
 <h2>Hi Guys, thanks for stopping by 🙏🏻. My name is Anselme Motcho but some people call me Othello. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 ### <img align='right' src="https://media.giphy.com/media/xTiTnolgxvZcJwdq4E/giphy.gif" width="230">
-<p><em> Onwer and Developer at <a href="https://kooleythemes.com">Kooleythemes</a>> 
+<p><em> Onwer and Developer at <a href="https://anselmem.github.io/FirstMileDev/">Kooleythemes</a>> 
 </em></p>
 
 
